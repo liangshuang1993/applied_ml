@@ -1,3 +1,5 @@
+# need to comment plot stuff when commit in coursera
+
 def drop_fist_last(grads):
     first, *middle, last = grads
     return avg(middle)
